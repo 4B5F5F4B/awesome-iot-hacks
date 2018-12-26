@@ -52,6 +52,11 @@ the table of content before making pull requests.
  - [Breaking Smart Speakers: We are Listening to You](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/Wu%20HuiYu%20and%20Qian%20Wenxiang%20-Updated/DEFCON-26-Wu-HuiYu-and-Qian-Wenxiang-Breaking-Smart-Speakers-Updated.pdf)
  - [Reversing a Japanese Wireless SD Card - From Zero to Code Execution](https://i.blackhat.com/us-18/Wed-August-8/us-18-Valadon-Reversing-a-Japanese-Wireless-SD-Card-From-Zero-to-Code-Execution.pdf)
  - [Digging Deep: How to Find and Exploit Bugs in IoT Devices](https://conference.hitb.org/hitbsecconf2018ams/materials/D1%20COMMSEC%20-%20Kelvin%20Wong%20-%20How%20to%20Find%20and%20Exploit%20Bugs%20in%20IoT%20Devices.pdf)
+ - [BlueBorne](https://www.blackhat.com/docs/eu-17/materials/eu-17-Seri-BlueBorne-A-New-Class-Of-Airborne-Attacks-Compromising-Any-Bluetooth-Enabled-Linux-IoT-Device.pdf)
+ - [IoT Hacking Simplified](http://conference.hitb.org/hitbsecconf2017ams/materials/D2T4%20-%20Aseem%20Jakhar%20-%20IoT%20Hacking%20Simplified.pdf)
+ - [Breaking BHAD: Abusing Belkin Home Automation Devices](https://www.blackhat.com/docs/eu-16/materials/eu-16-Tenaglia-Breaking-Bhad-Abusing-Belkin-Home-Automation-Devices.pdf)
+ - [Pratical JTAG:From 0 to 1](https://cansecwest.com/slides/2018/Practical%20JTAGfrom%200%20to%201%20-%20hyperchem,%20Tencent's%20XuanwulLab.pdf)
+ - [Cyber WMD:Vulnerable IoT](https://cansecwest.com/slides/2017/CSW2017_YuhaoSong-HuimingLiu_Cyber_WMD_Vulnerable_IoT.pdf)
 
 ## Blogs
  - [dev/ttys0](http://www.devttys0.com/blog)
@@ -133,6 +138,7 @@ the table of content before making pull requests.
 - [Hacking Lightbulbs: Security Evaluation Of The Philips Hue Personal Wireless Lighting System](http://www.dhanjani.com/docs/Hacking%20Lighbulbs%20Hue%20Dhanjani%202013.pdf)
 - [IoT Goes Nuclear: Creating a ZigBee Chain Reaction](http://www.wisdom.weizmann.ac.il/~eyalro/iotworm/iotworm.pdf)
 - [Extended Functionality Attacks on IoT Devices: The Case of Smart Lights](https://zh.scribd.com/doc/306620189/Eyal-Ronen-and-Adi-Shamir-Hack-Lightbulbs)
+ -[A LIGHTBULB WORM](http://colinoflynn.com/wp-content/uploads/2016/08/us-16-OFlynn-A-Lightbulb-Worm-wp.pdf)
 
 ### Locks
 
@@ -198,3 +204,4 @@ the table of content before making pull requests.
 ### Smart Speaker
 - [Alexa, are you listening?](https://labs.mwrinfosecurity.com/blog/alexa-are-you-listening/)
 - [Exploit-Amazon-Echo](https://github.com/tencentbladeteam/Exploit-Amazon-Echo)
+- [The Sound of A Targeted Attack](https://documents.trendmicro.com/assets/pdf/The-Sound-of-a-Targeted-Attack.pdf)
