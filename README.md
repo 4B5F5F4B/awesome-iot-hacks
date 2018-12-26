@@ -39,6 +39,7 @@ the table of content before making pull requests.
   - [Toilet](#toilet)
   - [Toys](#toys)
   - [Drones](#drones)
+  - [Smart Speaker](#smpart-speaker)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
