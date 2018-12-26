@@ -43,21 +43,22 @@ the table of content before making pull requests.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Analysis, Reports and Slides
+## Slides
+ - [Reversing IoT: Xiaomi Ecosystem](https://recon.cx/2018/brussels/resources/slides/RECON-BRX-2018-Reversing-IoT-Xiaomi-ecosystem.pdf)
+ - [The Tao of Hardware the Te of Implants](https://www.blackhat.com/docs/us-16/materials/us-16-FitzPatrick-The-Tao-Of-Hardware-The-Te-Of-Implants.pdf)
+ - [Security of Embedded Devices' Firmware](http://www.powerofcommunity.net/poc2015/andrei.pdf)
+ - [ZigBee Exploited the Good the Bad and the Ugly](https://www.blackhat.com/docs/us-15/materials/us-15-Zillner-ZigBee-Exploited-The-Good-The-Bad-And-The-Ugly.pdf)
+ - [Breaking Smart Speakers: We are Listening to You](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/Wu%20HuiYu%20and%20Qian%20Wenxiang%20-Updated/DEFCON-26-Wu-HuiYu-and-Qian-Wenxiang-Breaking-Smart-Speakers-Updated.pdf)
+ - [Reversing a Japanese Wireless SD Card - From Zero to Code Execution](https://i.blackhat.com/us-18/Wed-August-8/us-18-Valadon-Reversing-a-Japanese-Wireless-SD-Card-From-Zero-to-Code-Execution.pdf)
+ - [Digging Deep: How to Find and Exploit Bugs in IoT Devices](https://conference.hitb.org/hitbsecconf2018ams/materials/D1%20COMMSEC%20-%20Kelvin%20Wong%20-%20How%20to%20Find%20and%20Exploit%20Bugs%20in%20IoT%20Devices.pdf)
 
-- [Internet of Things Research Study (HP 2014 Report)](http://www8.hp.com/h20195/V2/GetPDF.aspx/4AA5-4759ENW.pdf)
-- [The Internet of Fails](http://www.slideshare.net/markstanislav/the-internet-of-fails-where-iot-has-gone-wrong-and-how-were-making-it-right),
-  ([video](www.youtube.com/watch?v=8hLeVSvoHqI))
-- [Cameras, Thermostats, and Home Automation Controllers, Hacking 14 IoT Devices](https://www.iotvillage.org/slides_DC23/IoT11-slides.pdf)
-- [Hack All The Things: 20 Devices in 45 Minutes](https://www.defcon.org/images/defcon-22/dc-22-presentations/Heres-Etemadieh-Baker-Nielsen/DEFCON-22-Heres-Etemadieh-Baker-Nielsen-Hack-All-The-Things.pdf) - ([wiki](https://www.exploitee.rs/), [video](www.youtube.com/watch?v=h5PRvBpLuJs))
-- [Careful Connections: Building Security in the Internet of Things (FTC)](https://www.ftc.gov/system/files/documents/plain-language/pdf0199-carefulconnections-buildingsecurityinternetofthings.pdf)
+## Blogs
+ - [dev/ttys0](http://www.devttys0.com/blog)
+ - [Payatu](https://payatu.com/blog/)
+ - [Attify](https://blog.attify.com)
 
 ## Communities
-
-- [IoT Village<sup>TM</sup>](https://www.iotvillage.org/)
-- [BuildItSecure.ly](http://builditsecure.ly/)
-- [Secure Internet of Things Project (Stanford)](http://iot.stanford.edu/people.html)
-- [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
+- [KanXue IoT Security(Chinese)](https://bbs.pediy.com/forum-128.htm)
 
 ## IoT Hacks
 
