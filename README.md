@@ -192,3 +192,5 @@ the table of content before making pull requests.
 - [All your bebop drones still belong to us, drone hijacking, Pedro Cabrera, 2016](https://youtu.be/ra0nKHvaXnc)
 - [Shelling out on 3DR Solo, Kevin Finisterre,June 15, 2015](http://www.digitalmunition.com/ShellingOutOnSolo_nopass.pdf)
 
+### Smart Speaker
+- [Alexa, are you listening?](https://labs.mwrinfosecurity.com/blog/alexa-are-you-listening/)
