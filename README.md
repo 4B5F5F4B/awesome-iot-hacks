@@ -12,7 +12,8 @@ the table of content before making pull requests.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Analysis, Reports and Slides](#analysis-reports-and-slides)
+- [Slides](#slides)
+- [Blogs](#blogs)
 - [Communities](#communities)
 - [IoT Hacks](#iot-hacks)
   - [Thingbots](#thingbots)
