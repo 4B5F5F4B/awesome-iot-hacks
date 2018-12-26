@@ -193,3 +193,4 @@ the table of content before making pull requests.
 
 ### Smart Speaker
 - [Alexa, are you listening?](https://labs.mwrinfosecurity.com/blog/alexa-are-you-listening/)
+- [Exploit-Amazon-Echo](https://github.com/tencentbladeteam/Exploit-Amazon-Echo)
