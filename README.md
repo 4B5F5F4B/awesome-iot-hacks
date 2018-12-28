@@ -60,9 +60,11 @@ the table of content before making pull requests.
 
 ## Blogs
  - [dev/ttys0](http://www.devttys0.com/blog)
+ - [Travis Goodspeed](http://travisgoodspeed.blogspot.com/)
  - [Payatu](https://payatu.com/blog/)
  - [Attify](https://blog.attify.com)
-
+ - [SEC Consult](https://sec-consult.com/en/blog/)
+ 
 ## Communities
 - [KanXue IoT Security(Chinese)](https://bbs.pediy.com/forum-128.htm)
 - [Seebug IoT Papers(Chinese)](https://paper.seebug.org/category/IoT)
