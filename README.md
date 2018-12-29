@@ -208,3 +208,8 @@ the table of content before making pull requests.
 - [Alexa, are you listening?](https://labs.mwrinfosecurity.com/blog/alexa-are-you-listening/)
 - [Exploit-Amazon-Echo](https://github.com/tencentbladeteam/Exploit-Amazon-Echo)
 - [The Sound of A Targeted Attack](https://documents.trendmicro.com/assets/pdf/The-Sound-of-a-Targeted-Attack.pdf)
+
+
+##Tools
+ - [avatar2](https://github.com/avatartwo/avatar2)
+ - [firmadyne](https://github.com/firmadyne/firmadyne)
