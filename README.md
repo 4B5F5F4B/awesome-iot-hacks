@@ -41,6 +41,7 @@ the table of content before making pull requests.
   - [Toys](#toys)
   - [Drones](#drones)
   - [Smart Speaker](#smart-speaker)
+- [Tools](#tools)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -210,6 +211,6 @@ the table of content before making pull requests.
 - [The Sound of A Targeted Attack](https://documents.trendmicro.com/assets/pdf/The-Sound-of-a-Targeted-Attack.pdf)
 
 
-##Tools
+## Tools
  - [avatar2](https://github.com/avatartwo/avatar2)
  - [firmadyne](https://github.com/firmadyne/firmadyne)
